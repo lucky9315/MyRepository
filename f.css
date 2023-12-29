@@ -1,0 +1,56 @@
+.my
+{
+    position: relative;
+    height: 10vw;
+}
+.label
+{
+    position: absolute;
+    left: 30%;
+    text-align: center;
+    top: 60%;
+    height: 70%;
+    width: 40%;
+    font-size: 5vw;
+    background-color:black;
+    color:blue;
+}
+.cont
+{
+    height: 30vw;
+    width: 100%;
+    position: relative;
+}
+.button1
+{
+    width: 13.5vw;
+    position: absolute;
+    left:15%;
+    top:30%;
+}
+.button2
+{
+    width: 13.5vw;
+    position: absolute;
+    left: 33%;
+    top:30%;
+}
+.button3
+{
+    width: 13.5vw;
+    position: absolute;
+    left:51%;
+    top:30%;
+}
+
+.button4
+{
+    width: 13.5vw;
+    position: absolute;
+    left:69%;
+    top:30%;
+}
+.body
+{
+    background-color: black;
+}
